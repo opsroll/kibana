@@ -1,0 +1,2 @@
+# kibana
+Installs Kibana
